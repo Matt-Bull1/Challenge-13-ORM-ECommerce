@@ -17,8 +17,10 @@
   Download the filess, run "npm i" in the terminal to install the dependencies. Next login to mysql on your device, type "source db/schema.sql", the exit my sql and type "node seeds/index.js" Now the program is seeded and ready to run
 
   ## Usage
+  
+  https://www.youtube.com/watch?v=4C9BOU11WFc
 
-  Using the program insomnia users, once they launch the application can use commands showed in the guide video to explore the database and make changes.
+  Using the program insomnia, users, once they launch the application can use commands showed in the guide video to explore the database and make changes.
 
   
   ## Contributors
